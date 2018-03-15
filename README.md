@@ -1,2 +1,3 @@
 # docker-kops
-A Docker image to run Kubernetes Kops
+
+A Docker image with `kubectl` and `kops` installed.
